@@ -10,7 +10,9 @@
 * This makes real-estate globalised. Traditional way of business takes more time but in case of real-estate advisor time barrier is removed because the buyer and seller can access at any time.
 <br>
 <br>
-***
+---
+
+
 ## Research
 
  * Real-estate is one of the major business which requires a high attention. While doing the research I found that mediators play a vital role in closing a deal.
@@ -33,7 +35,7 @@
 * There can be fraudsters who might keep fake information. So the two parties (Buyers and Sellers) need to be very particular in checking the proofs. 
 <br>
 <br>
-***
+---
 
 ## Cost and Features
 
@@ -53,7 +55,7 @@ Real-estate advisor has two modules <br>
 * Delete the record of properties, incase the property is sold out.
 <br>
 <br>
-***
+---
 
 ## Defining Our System
 
