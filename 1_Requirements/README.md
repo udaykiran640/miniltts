@@ -35,6 +35,7 @@
 * There can be fraudsters who might keep fake information. So the two parties (Buyers and Sellers) need to be very particular in checking the proofs. 
 <br>
 <br>
+
 ---
 
 ## Cost and Features
@@ -59,7 +60,7 @@ Real-estate advisor has two modules <br>
 
 ## Defining Our System
 
-![](https://github.com/udaykiran640/miniltts/blob/main/1_Requirements/Defining_our_system%20.jpg)
+![](1_Requirements/Defining_our_system.jpg)
 
 
 
