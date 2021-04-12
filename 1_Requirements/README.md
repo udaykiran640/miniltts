@@ -35,6 +35,7 @@
 * There can be fraudsters who might keep fake information. So the two parties (Buyers and Sellers) need to be very particular in checking the proofs. 
 <br>
 <br>
+
 ---
 
 ## Cost and Features
@@ -55,11 +56,19 @@ Real-estate advisor has two modules <br>
 * Delete the record of properties, incase the property is sold out.
 <br>
 <br>
+
 ---
 
 ## Defining Our System
+<br>
+<br>
+<br>
 
-![](https://github.com/udaykiran640/miniltts/blob/main/1_Requirements/Defining_our_system%20.jpg)
+![DOS](Defining_our_system.jpg)
+
+
+
+
 
 
 
