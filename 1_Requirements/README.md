@@ -66,8 +66,26 @@ Real-estate advisor has two modules <br>
 
 ![DOS](Defining_our_system.jpg)
 
+---
 
-defining
+
+## SWOT Analysis
+<br>
+<br>
+<br>
+
+![SWOT](SWOT_analysis.jpg)
+
+
+---
+
+## 4W's and 1H
+
+### Who:
+
+
+
+
 
 
 
