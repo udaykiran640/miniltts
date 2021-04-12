@@ -55,22 +55,21 @@ Real-estate advisor has two modules <br>
 * Can modify the added details of properties.
 * Delete the record of properties, incase the property is sold out.
 <br>
-<br>
 
 ---
 
-## Defining Our System
 <br>
+
+## Defining Our System
 <br>
 <br>
 
 ![DOS](Defining_our_system.jpg)
 
 ---
-
+<br>
 
 ## SWOT Analysis
-<br>
 <br>
 <br>
 
@@ -79,9 +78,45 @@ Real-estate advisor has two modules <br>
 
 ---
 
-## 4W's and 1H
+<br>
 
-### Who:
+## 4W's and 1H
+<br>
+
+### Who: 
+Everyone who has a desire to buy a property or a need to sell their property can use it.
+
+### What:
+A utility which can connect buyers and sellers where one can buy or sell their asserts or properties.
+
+### When:
+Time is not a barrier, so it can be used at any point of time.
+
+### Where:
+As it is globalised, it can be used anywhere and all the asserts can viewed which in and out of range.
+
+### How:
+Buyers can view all the properties or asserts available or can also view by the type of property, Whereas sellers need to make their property available by adding specifications and can also modify them. If the property is sold out, seller can remove them.
+
+
+---
+
+<br>
+
+## Detail Requirements
+<br>
+
+### High Level Requirements:
+
+
+
+
+
+### Low Level Requirements:
+
+
+
+
 
 
 
