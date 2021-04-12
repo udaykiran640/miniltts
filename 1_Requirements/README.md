@@ -10,7 +10,7 @@
 * This makes real-estate globalised. Traditional way of business takes more time but in case of real-estate advisor time barrier is removed because the buyer and seller can access at any time.
 <br>
 <br>
----
+
 
 
 ## Research
@@ -59,7 +59,7 @@ Real-estate advisor has two modules <br>
 
 ## Defining Our System
 
-![](Defining_our_system.jpg)
+![](https://github.com/udaykiran640/miniltts/blob/main/1_Requirements/Defining_our_system%20.jpg)
 
 
 
