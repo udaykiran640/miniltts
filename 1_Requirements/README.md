@@ -56,11 +56,12 @@ Real-estate advisor has two modules <br>
 * Delete the record of properties, incase the property is sold out.
 <br>
 <br>
+
 ---
 
 ## Defining Our System
 
-![](1_Requirements/Defining_our_system.jpg)
+![](Defining_our_system.jpg)
 
 
 
