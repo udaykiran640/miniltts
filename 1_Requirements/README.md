@@ -67,6 +67,8 @@ Real-estate advisor has two modules <br>
 ![DOS](Defining_our_system.jpg)
 
 
+defining
+
 
 
 
