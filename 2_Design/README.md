@@ -36,3 +36,13 @@
 
 <br>
 
+### Activity Diagram:
+
+<br>
+
+![activity_diagram](activity_diagram.jpg)
+
+<br>
+
+
+
