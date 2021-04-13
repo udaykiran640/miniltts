@@ -12,4 +12,12 @@
 
 <br>
 
+### Class Diagram:
+
+<br>
+
+![class_diagram](class_diagram.jpg)
+
+<br>
+
 
