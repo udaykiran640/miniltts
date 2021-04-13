@@ -80,7 +80,7 @@ Real-estate advisor has two modules <br>
 
 <br>
 
-## 4W's and 1H
+## 4W's and 1'H
 <br>
 
 ### Who: 
@@ -107,12 +107,20 @@ Buyers can view all the properties or asserts available or can also view by the 
 <br>
 
 ### High Level Requirements:
+| ID | Description | Status |
+|----|-------------|--------|
+| HLR01 | Using sell option  | Implemented |
+| HLR02 | Using buy option   | Implemented |
 
 
-
+<br>
+<br>
 
 
 ### Low Level Requirements:
+| ID | Description | HLR_ID | Status |
+|----|-------------|--------|--------|
+| LLR01 | 
 
 
 
