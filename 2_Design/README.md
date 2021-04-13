@@ -16,7 +16,7 @@
 
 <br>
 
-![class_diagram](class_diagram.jpg)
+![class_diagram](class_diagram(1).jpg)
 
 <br>
 
