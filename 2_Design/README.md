@@ -21,3 +21,18 @@
 <br>
 
 
+
+---
+
+## Behavioral Diagrams
+
+<br>
+
+### Use Case Diagram:
+
+<br>
+
+![use_case](usecase_diagram.jpg)
+
+<br>
+
