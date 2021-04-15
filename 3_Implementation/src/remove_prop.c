@@ -1,10 +1,15 @@
 #include"funs.h"
 
+
+
 void remove_prop()
 {
+    size= sizeof(u);
     system("cls");
     char ruser_name[30];
     char another='y';
+
+    
 
     while(another== 'y')
     {
