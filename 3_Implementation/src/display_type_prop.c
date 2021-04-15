@@ -1,7 +1,9 @@
 #include"funs.h"
+#include"stdlib.h"
 
 void display_type_prop()
 {
+    size= sizeof(u);
     system("cls");
     char ruser_ptype[20];
     char another='y';

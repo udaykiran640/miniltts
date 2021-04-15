@@ -11,6 +11,23 @@
 
 #ifndef __FUNS_H__
 #define __FUNS_H__
+#include<stdio.h>
+
+struct user
+{
+    char name[30];
+    long int cnumber;
+    char ptype[20];
+    int ext;
+    char place[20];
+    char country[20];
+};
+
+struct user u;
+
+long int size;
+
+FILE *fptr, *ftemp;
 
 /**
  * @brief Displays all the properties available to buy.

@@ -4,28 +4,14 @@
 #include"windows.h"
 #include"funs.h"
 
-struct user
-{
-    char name[30];
-    long int cnumber;
-    char ptype[20];
-    int ext;
-    char place[20];
-    char country[20];
-};
-
-struct user u;
-
-long int size= sizeof(u);
-
-FILE *fptr, *ftemp;
 
 int main()
 {
+
     int choice0,choice1;
     char m;
 
-    fptr=fopen("udata.txt","rb+")
+    fptr=fopen("udata.txt","rb+");
     if(fptr==NULL)
     {
         fptr=fopen("udata.txt","wb+");

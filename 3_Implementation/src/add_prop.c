@@ -1,9 +1,11 @@
 #include"funs.h"
+//#include"stdio.h"
 
 void add_prop()
 {
+    size= sizeof(u);
     system("cls");
-    fseek(fprt, 0, SEEK_END);
+    fseek(fptr, 0, SEEK_END);
     char another = 'y';
   
     while (another == 'y') 

@@ -1,7 +1,10 @@
 #include"funs.h"
 
+
+
 void modify_prop()
 {
+    size= sizeof(u);
     system("cls");
     char ruser_name[20];
     char another= 'y';
