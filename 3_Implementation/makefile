@@ -39,4 +39,7 @@ cppcheck:
 
 debug:
 	gcc -I $(INC) $(SRC) main.c -g -o $(PROJ_NAME).$(EXEC)
-	gdb $(PROJ_NAME).$(EXEC) 
+	gdb $(PROJ_NAME).$(EXEC)
+
+valgrind:
+	valgrind ./$(PROJ_NAME).$(EXEC)	 
