@@ -1,5 +1,6 @@
 
 PROJ_NAME = proj
+TEST_PROJ_NAME= Test_$(PROJ_NAME)
 
 Build= build
 
@@ -7,9 +8,14 @@ SRC=src/add_prop.c\
 src/display_prop.c\
 src/display_type_prop.c\
 src/modify_prop.c\
-src/remove_prop.c
+src/remove_prop.c\
+src/display_number.c
 
 INC= inc
+INC_TEST= unity
+
+TEST_SRC=test/test.c\
+unity/unity.c
 
 ifdef OS
 	RM=del
@@ -25,6 +31,7 @@ else
 
 endif			
 
+.PHONY: run clean test doc all
 
 all:
 	gcc -I $(INC) $(SRC) main.c -o $(call FixPath, $(PROJ_NAME).$(EXEC))
@@ -43,3 +50,8 @@ debug:
 
 valgrind:
 	valgrind ./$(PROJ_NAME).$(EXEC)	 
+
+
+test:
+	gcc -I $(INC) -I $(INC_TEST) $(TEST_SRC) $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
+	./$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
