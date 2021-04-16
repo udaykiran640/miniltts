@@ -25,5 +25,5 @@ int main()
 
 void test_display_number(void)
 {   
-    TEST_ASSERT_EQUAL(2,display_number());
+    TEST_ASSERT_EQUAL(-1,display_number());
 }
