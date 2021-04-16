@@ -23,11 +23,11 @@ ifdef OS
 	EXEC=exe
 
 else
-	ifeq($(shell uname),Linux)
+	ifeq ($(shell uname),Linux)
 		RM=rm -rf
 		FixPath=$1
 		EXEC=out
-	//endif
+	endif
 
 endif			
 
@@ -49,7 +49,7 @@ debug:
 	gdb $(PROJ_NAME).$(EXEC)
 
 valgrind:
-	valgrind ./$(PROJ_NAME).$(EXEC)	 
+	valgrind ./$(TEST_PROJ_NAME).$(EXEC)	 
 
 
 test:
