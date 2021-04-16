@@ -126,7 +126,7 @@ Buyers can view all the properties or asserts available or can also view by the 
 |LLR04 | Sellers can remove their data if their property was sold out | HLR01 | Implemented |
 | LLR05 | Buyers can view all the properties that are available | HLR02 | Implemented |
 |LLR06 |Buyers can view the asserts by the type of assert they want to buy | HLR02 | Implemented |
-|LLR07 | Buyers have an option to view how many **number** of properties are available to them | HLR02 | Future |
+|LLR07 | Buyers have an option to view how many **number** of properties are available to them | HLR02 | Implemented |
 |LLR08 | Both buyers and sellers has an option to exit from the interface | HLR01 HLR02 | Implemented | 
 
 
