@@ -11,34 +11,19 @@ void tearDown()
 
 }
 
-struct user
-{
-    char name[30];
-    long int cnumber;
-    char ptype[20];
-    int ext;
-    char place[20];
-    char country[20];
-};
-
-struct user u;
-
-long int size;
-
-FILE *fptr, *ftemp;
-
+void test_display_number(void);
 
 
 int main()
 {
     UNITY_BEGIN();
 
-    RUN_TEST(display_number);
+    RUN_TEST(test_display_number);
 
     return UNITY_END();
 }
 
-int display_number()
+void test_display_number(void)
 {   
-    TEST_ASSERT_EQUAL_INT(2,display_number());
+    TEST_ASSERT_EQUAL(2,display_number());
 }
